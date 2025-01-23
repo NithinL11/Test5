@@ -7,7 +7,7 @@ echo "result is: $RESULT"
 
 #calculation result need to be
 if [[ $RESULT -eq 1 ]]; then
-  echo "result is 1"
-else 
-  echo " Error"
+  echo "Sucess"
+else
+  echo " Failed"
 fi
